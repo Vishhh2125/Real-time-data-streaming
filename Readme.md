@@ -75,9 +75,9 @@ CloudWatch (Monitoring)
 ---
 ## 📋 System Logs - Data Flow Pipeline
 
-![System Logs 1](images/image14.png)
+![System Logs 1](images/image4.png)
 
-![System Logs 2](images/image15.png)
+![System Logs 2](images/image5.png)
 
 ---
 ## 💾 Data Storage in DynamoDB
