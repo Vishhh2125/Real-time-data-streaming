@@ -66,7 +66,29 @@ CloudWatch (Monitoring)
 
 ---
 
-## 📁 Project Structure
+## � Lambda Monitoring Metrics for Preprocessing
+
+![Lambda Monitoring Metrics 1](images/image5.png)
+
+![Lambda Monitoring Metrics 2](images/image6.png)
+
+---
+## 📋 System Logs - Data Flow Pipeline
+
+![System Logs 1](images/image14.png)
+
+![System Logs 2](images/image15.png)
+
+---
+## 💾 Data Storage in DynamoDB
+
+![DynamoDB Storage 1](images/image1.png)
+
+![DynamoDB Storage 2](images/image2.png)
+
+---
+
+## �📁 Project Structure
 
 ```
 lambda/        → ETL processing logic
