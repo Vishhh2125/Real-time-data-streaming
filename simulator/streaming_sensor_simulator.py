@@ -9,10 +9,9 @@ from AWSIoTPythonSDK.MQTTLib import AWSIoTMQTTClient
 ENDPOINT = "a19jczo2tpx70z-ats.iot.ap-south-1.amazonaws.com"
 PORT = 8883
 
-ROOT_CA = r"C:/Users/vishnu uplenchwar/Downloads/sensor/AmazonRootCA1.pem"
-PRIVATE_KEY = r"C:/Users/vishnu uplenchwar/Downloads/sensor/b4d5741cc78a2aae4ea7e23ea838657fcda93c2e2a54c9363dab4aca9c6f60fa-private.pem.key"
-CERTIFICATE = r"C:/Users/vishnu uplenchwar/Downloads/sensor/b4d5741cc78a2aae4ea7e23ea838657fcda93c2e2a54c9363dab4aca9c6f60fa-certificate.pem.crt"
-
+# ROOT_CA =
+# PRIVATE_KEY = 
+# CERTIFICATE = 
 NUM_SENSORS = 20
 
 print("Validating certificate files...")
